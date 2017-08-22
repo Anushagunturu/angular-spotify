@@ -4,8 +4,8 @@
 1 verbose cli   'install',
 1 verbose cli   '-g',
 1 verbose cli   'angular/cli' ]
-2 info using npm@2.14.12
-3 info using node@v4.3.2
+2 info using npm@3.10.10
+3 info using node@v6.11.2
 4 verbose install initial load of /usr/local/lib/package.json
 5 verbose readDependencies loading dependencies from /usr/local/lib/package.json
 6 silly cache add args [ 'angular/cli', null ]
@@ -81,8 +81,8 @@
 27 verbose cwd /Users/yashwanth/Desktop/zikher/angular-spotify-master/src/app
 28 error Darwin 16.6.0
 29 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "-g" "angular/cli"
-30 error node v4.3.2
-31 error npm  v2.14.12
+30 error node v6.11.2
+31 error npm  v3.10.10
 32 error code 128
 33 error Command failed: git clone --template=/Users/yashwanth/.npm/_git-remotes/_templates --mirror git@github.com:angular/cli.git /Users/yashwanth/.npm/_git-remotes/git-github-com-angular-cli-git-9789f947
 33 error Cloning into bare repository '/Users/yashwanth/.npm/_git-remotes/git-github-com-angular-cli-git-9789f947'...
